@@ -1,0 +1,136 @@
+{
+	"ReverseCategorys": false,
+	"ShowPrivateWorld": false,
+	"Categorys": [
+		{
+			"Category": "VRChat",
+			"Worlds": [
+				{
+					"ID": "wrld_4432ea9b-729c-46e3-8eaf-846aa0a37fdd",
+					"Name": "VRChat Home",
+					"RecommendedCapacity": 8,
+					"Capacity": 32,
+					"Description": "Whether you're new or returning‚ this space offers a cozy starting point to customize your avatar‚ explore the menus‚ and prepare for adventures across VRChatǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_005f92e8-140d-4e67-8d09-f64a3acfa333",
+					"Name": "VRChat Official Pride Hub",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "Welcome to the Pride Hub - a vibrant space dedicated to celebrate the LGBTQIA＋ community during Pride Month․ Celebrate identity‚ love‚ and unity with people from all over the world․ No matter who you are‚ theres a place for you in VRChat․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_a6198a26-d944-4306-959f-d5b6d40662fe",
+					"Name": "Spookality Home 2023",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "Spookality 2023 Avatar Gallery",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_bfb3e4ad-0952-48f6-82c8-23b66c340f4a",
+					"Name": "VRChat Home - 10 Years",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "10 Year Anniversary Edition of the VRChat Home",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wld_97fda4a1-f820-4f09-a88c-2d2a95b668f7",
+					"Name": "The Old HUB",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Relive your fond memories here․",
+					"Platform": {
+						"PC": true,
+						"Android": false,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_ba913a96-fac4-4048-a062-9aa5db092812",
+					"Name": "VRChat Hub",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "VRChat Hub",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": false
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		},
+		{
+			"Category": "Mario Manstar's Worlds",
+			"Worlds": [
+				{
+					"ID": "wrld_8e29be4d-a4dc-4d39-ab44-c81826a9cd63",
+					"Name": "CWN Simple Cinema ［YTS‚ 5․1 Audio‚ 3D Video］",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "A simple optimised cinema world for hanging out and watching movies and hanging out․ This world uses VizVid for the media player and has the option to enable 5․1 audio and 3D video support with AudioLink‚ LTCGI and Dynamic Light Volumes which can all be turned off․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_1ed70d2e-bd9e-4fdb-8603-eb33f4c921d4",
+					"Name": "Next Week at Freddy's Hangout",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "This is the map from Next Week at Freddy's by rynfox ported to VRChat and made into a hangout world․ This world includes; 2 Media Players‚ AudioLink and LTCGI （diner player only）‚ working Arcade Games which include Melon‚ HeliCave and Udon Galaxy as well as a VR Cadet Pinball Table‚ Billiards Air Hockey and Chess․ There is also working cameras and several interactive objects like a bat that also interacts with physbones‚ a flashlight for each player in the instance‚ intractable ball pit （very laggy when enabled）‚ an opt in collar system and a copper badge from my group that can be attached to your avatar․",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				},
+				{
+					"ID": "wrld_9c186060-7b6d-42fd-b6a8-9b8895fc6355",
+					"Name": "ZeniFoox's Rec Room Dorm",
+					"RecommendedCapacity": 6,
+					"Capacity": 10,
+					"Description": "A port of ZeniFoox's Dorm from the now defunced game Rec Room （RIP）",
+					"Platform": {
+						"PC": true,
+						"Android": true,
+						"iOS": true
+					},
+					"ReleaseStatus": "public"
+				}
+			]
+		}
+	],
+	"Roles": [
+		
+	]
+}
